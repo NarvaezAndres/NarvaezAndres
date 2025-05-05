@@ -2,7 +2,7 @@
 # Hola a todos! :wave::smiley:
 
 <!-- Introduction -->
-# 👋 ¡Hola! Soy Andrés Mauricio Narváez Villota
+# 👋 Soy Andrés Mauricio Narváez Villota
 
 Soy un apasionado del desarrollo de software, actualmente en formación como Analista y Desarrollador de Software en el SENA. Me encanta transformar ideas en soluciones funcionales a través del código, y siempre estoy buscando aprender nuevas tecnologías, mejorar mis habilidades y trabajar en proyectos desafiantes.
 
@@ -43,8 +43,6 @@ Aquí te presento algunas de las tecnologías y herramientas con las que he esta
 </p>
 
 <!-- Despedida -->
-## ✨ Despedida
-
 Gracias por tomarte el tiempo de conocer un poco más sobre mí y mis proyectos.  
 Estoy comprometido con seguir creciendo como desarrollador y aportar con pasión en cada línea de código.  
 ¡Nos vemos en el camino del aprendizaje y la tecnología! 🚀💻
