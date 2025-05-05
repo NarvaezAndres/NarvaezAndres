@@ -11,8 +11,19 @@ Soy un apasionado del desarrollo de software, actualmente en formación como Ana
 🔧 Aquí encontrarás código limpio, buenas prácticas y mucho entusiasmo por seguir creciendo en esta industria tan emocionante.
 
 <!-- Contactos -->
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
+## 📬 Contáctame
+
+<p align="left">
+  <a href="https://www.instagram.com/narvaezandres2003" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://wa.me/3243543738" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="mailto:narvaezandresmauricio12@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+</p>
 
 <!-- Lenguajes y Herramientas -->
 ## 🛠️ Lenguajes y Herramientas
@@ -46,9 +57,6 @@ Aquí te presento algunas de las tecnologías y herramientas con las que he esta
 Gracias por tomarte el tiempo de conocer un poco más sobre mí y mis proyectos.  
 Estoy comprometido con seguir creciendo como desarrollador y aportar con pasión en cada línea de código.  
 ¡Nos vemos en el camino del aprendizaje y la tecnología! 🚀💻
-
-Con entusiasmo,  
-** Andrés **
 
 ¡Gracias por pasar por aquí! 👨‍💻💡
 
