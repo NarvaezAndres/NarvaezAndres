@@ -42,5 +42,15 @@ Aquí te presento algunas de las tecnologías y herramientas con las que he esta
   <img src="https://img.shields.io/badge/Calidad-4CAF50?style=for-the-badge&logo=codefactor&logoColor=white" />
 </p>
 
+<!-- Despedida -->
+## ✨ Despedida
+
+Gracias por tomarte el tiempo de conocer un poco más sobre mí y mis proyectos.  
+Estoy comprometido con seguir creciendo como desarrollador y aportar con pasión en cada línea de código.  
+¡Nos vemos en el camino del aprendizaje y la tecnología! 🚀💻
+
+Con entusiasmo,  
+** Andrés **
+
 ¡Gracias por pasar por aquí! 👨‍💻💡
 
